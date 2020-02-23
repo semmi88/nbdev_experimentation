@@ -11,6 +11,8 @@
 
 # Development workflow
 
+Start Jupyter environment: jupyter notebook
+
 
 
 # nbdev cli
