@@ -9,7 +9,24 @@
 
 - pip install jupyterlab
 
-# nbdev template
+# Development workflow
 
-Use this template to more easily create your nbdev project.
+
+
+# nbdev cli
+
+nbdev_new
+nbdev_build_lib
+nbdev_build_docs
+nb_dev_fix_merge file.ipynb
+
+CI actions
+nbdev_read_nbs
+nbdev_clean_nbs
+nbdev_diff_nbs
+nbdev_test_nbs
+
+# nbdev features
+
+Use math notation, KaTex library, $$
 
